@@ -1,0 +1,8 @@
+{
+  "full_name": "John Doe",
+  "address_line1": "1234 Main St",
+  "city": "Anytown",
+  "state": "CA",
+  "zip": "12345",
+  "phone_number": "555-1234"
+}

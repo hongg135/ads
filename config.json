@@ -1,0 +1,17 @@
+{
+    "gologin_api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2ODE2YjQ1Zjg1MjFhZDdkNWQ0ZDJhNDIiLCJ0eXBlIjoiZGV2Iiwiand0aWQiOiI2ODE2YjlmNjUzM2FhOTg1MjAyM2I5NWYifQ.DSvN_eym7YkH2yPxFrPn_zRqj4JddoEaXCUBS4rufXU",
+    "proxy": {
+      "host": "geo.floppydata.com",
+      "port": 10080,
+      "username": "tkyI0qulQDCG5KFO",
+      "password": "UBsO98dxBkyT9pZs"
+    },
+    "geo": {
+      "country": "US",
+      "city": "New York",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "language": "en-US"
+    }
+  }
+  

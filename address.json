@@ -1,0 +1,10 @@
+{
+  "full_name": "John Smith",
+  "address_line1": "123 Main Street",
+  "address_line2": "Apt 4B",
+  "city": "New York",
+  "state": "NY",
+  "zip_code": "10001",
+  "country": "US",
+  "phone_number": "2125551234"
+}

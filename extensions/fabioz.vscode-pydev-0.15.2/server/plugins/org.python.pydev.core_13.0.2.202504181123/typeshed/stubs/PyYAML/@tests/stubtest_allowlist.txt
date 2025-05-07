@@ -1,0 +1,25 @@
+# TODO: missing from stub
+yaml.composer.__all__
+yaml.constructor.__all__
+yaml.dumper.__all__
+yaml.emitter.__all__
+yaml.error.__all__
+yaml.loader.__all__
+yaml.parser.__all__
+yaml.reader.__all__
+yaml.representer.__all__
+yaml.resolver.__all__
+yaml.scanner.__all__
+yaml.serializer.__all__
+
+# yaml._yaml is for backwards compatibility so none of it matters anyway
+yaml._yaml.__test__
+
+# Some arguments to these functions are technically positional or keyword
+# arguments at runtime, but according to the documentation and other,
+# similar functions, it's safer to treat them as keyword-only arguments.
+yaml.dump_all
+yaml.serialize_all
+
+# Auto-generated methods by Cython
+.*_cython__

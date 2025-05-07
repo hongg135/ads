@@ -1,0 +1,8 @@
+{
+    "email": "jean.dupont@mail.com",
+    "name": "Jean Dupont",
+    "amount": "25",
+    "message": "Joyeux anniversaire !",
+    "recipient_name": "Marie",
+    "recipient_email": "marie@example.com"
+  }

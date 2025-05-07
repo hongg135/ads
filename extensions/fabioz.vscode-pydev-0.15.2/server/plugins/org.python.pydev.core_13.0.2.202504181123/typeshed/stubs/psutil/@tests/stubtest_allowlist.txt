@@ -1,0 +1,12 @@
+# TODO: missing from stub
+psutil.__all__
+psutil._common.__all__
+psutil._psposix.__all__
+
+# Stubtest does not support these platforms
+psutil._psaix
+psutil._psbsd
+psutil._pssunos
+
+# Test utilities
+psutil.tests.*
